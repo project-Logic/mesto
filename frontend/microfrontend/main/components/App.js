@@ -13,7 +13,7 @@ import AddPlacePopup from "./AddPlacePopup";
 import Register from "./Register";
 import Login from "./Login";
 import InfoTooltip from "../../authorizer/components/InfoTooltip.js";
-import ProtectedRoute from "../../authorizer/components/ProtectedRoute.js";
+import ProtectedRoute from "./ProtectedRoute.js";
 import * as auth from "../utils/auth.js";
 
 function App() {
